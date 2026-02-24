@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://devidjack11.github.io/Transferable-Flash-USDT-On-Multi-Network/sitemap.xml
